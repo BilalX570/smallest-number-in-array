@@ -1,6 +1,6 @@
 Smallest Number in Array
 Student Information
-Name: Bilal Muktar
+Name: Bilal Muktar Geda
 Student ID: RMNS-6274/23
 Course: Data Structure and Algorithm(DSA)
 Algorithm
